@@ -1,6 +1,6 @@
 #include "Mouse.h"
 
-int cps = 35;
+int cps = 35; //clicks per second (approximate)
 
 void setup(){
   pinMode(2,INPUT);
